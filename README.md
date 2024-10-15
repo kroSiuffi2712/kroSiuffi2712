@@ -13,7 +13,7 @@ I am a full-stack developer specializing in the MERN stack with a strong command
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=docker&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=docker&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carolina-ruiz-profile/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/kroly) 
 
 # 💻 Tech Stack:
