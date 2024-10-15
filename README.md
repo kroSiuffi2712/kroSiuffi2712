@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a full-stack developer specializing in the MERN stack with a strong command of TypeScript. I excel in building scalable web applications and APIs using React for front-end development and Node.js with Express for back-end services. My experience includes working with MongoDB and MySQL databases, allowing me to deliver full-stack solutions with seamless data management.<br><br>I have developed RESTful and GraphQL APIs using Sequelize and MySQL, ensuring clean, maintainable code and optimized performance. Additionally, I have experience with C# .NET Core in back-end development, further broadening my expertise in server-side technologies and providing me with a strong foundation across different platforms and frameworks.<br><br>Skills: 
+<br><br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React.js](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
